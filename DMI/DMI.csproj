@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D2F7F068-087D-4E26-9067-655C7033FCA4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>DMI</RootNamespace>
+    <AssemblyName>DMI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>DMI.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConfigurationData.cs" />
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TargetDistance_2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TargetDistance_2.Designer.cs">
+      <DependentUpon>TargetDistance_2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\DisatanceBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\DisatanceBar.Designer.cs">
+      <DependentUpon>DisatanceBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DMIPackage.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyStruct.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Socket.cs" />
+    <Compile Include="UIControl\TargetDistance_1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\TargetDistance_1.Designer.cs">
+      <DependentUpon>TargetDistance_1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\Gauge.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\Gauge.Designer.cs">
+      <DependentUpon>Gauge.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\RunState.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\RunState.Designer.cs">
+      <DependentUpon>RunState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\C3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\C3.Designer.cs">
+      <DependentUpon>C3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\C5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\C5.Designer.cs">
+      <DependentUpon>C5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\DepartSign.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\DepartSign.Designer.cs">
+      <DependentUpon>DepartSign.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\DoorState.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\DoorState.Designer.cs">
+      <DependentUpon>DoorState.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\F.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\F.Designer.cs">
+      <DependentUpon>F.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\M10.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\M10.Designer.cs">
+      <DependentUpon>M10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\M3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\M3.Designer.cs">
+      <DependentUpon>M3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\M4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\M4.Designer.cs">
+      <DependentUpon>M4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\M5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\M5.Designer.cs">
+      <DependentUpon>M5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\M6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\M6.Designer.cs">
+      <DependentUpon>M6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\M9.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\M9.Designer.cs">
+      <DependentUpon>M9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UIControl\N.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UIControl\N.Designer.cs">
+      <DependentUpon>N.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TargetDistance_2.resx">
+      <DependentUpon>TargetDistance_2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\DisatanceBar.resx">
+      <DependentUpon>DisatanceBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UIControl\TargetDistance_1.resx">
+      <DependentUpon>TargetDistance_1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\Gauge.resx">
+      <DependentUpon>Gauge.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\RunState.resx">
+      <DependentUpon>RunState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\C3.resx">
+      <DependentUpon>C3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\C5.resx">
+      <DependentUpon>C5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\DepartSign.resx">
+      <DependentUpon>DepartSign.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\DoorState.resx">
+      <DependentUpon>DoorState.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\F.resx">
+      <DependentUpon>F.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\M10.resx">
+      <DependentUpon>M10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\M3.resx">
+      <DependentUpon>M3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\M4.resx">
+      <DependentUpon>M4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\M5.resx">
+      <DependentUpon>M5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\M6.resx">
+      <DependentUpon>M6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\M9.resx">
+      <DependentUpon>M9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UIControl\N.resx">
+      <DependentUpon>N.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DMI.ico" />
+    <Content Include="UIControl\D.PNG" />
+    <Content Include="UIControl\N.JPG" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

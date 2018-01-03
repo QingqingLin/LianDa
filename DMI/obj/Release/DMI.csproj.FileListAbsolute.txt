@@ -1,0 +1,123 @@
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.Form1.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI\bin\Release\DMI.exe
+C:\Users\wang\Desktop\DMI\bin\Release\DMI.pdb
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.exe
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.pdb
+C:\Users\wang\Desktop\DMI\obj\Release\DMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.exe
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.pdb
+C:\Users\wang\Desktop\DMI - 副本\bin\Release\DMI.exe
+C:\Users\wang\Desktop\DMI - 副本\bin\Release\DMI.pdb
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.Form1.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.TargetDistance_1.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.Gauge.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.RunState.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.TargetDistance_2.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.exe
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.pdb
+C:\Users\wang\Desktop\DMI - 副本 - 副本\bin\Release\DMI.exe
+C:\Users\wang\Desktop\DMI - 副本 - 副本\bin\Release\DMI.pdb
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.DisatanceBar.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.Form1.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.TargetDistance_1.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.Gauge.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.RunState.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI - 副本 - 副本\obj\Release\DMI.csproj.GenerateResource.Cache
+G:\DMI\obj\Release\DMI.exe
+G:\DMI\obj\Release\DMI.pdb
+G:\DMI\bin\Release\DMI.exe
+G:\DMI\bin\Release\DMI.pdb
+G:\DMI\obj\Release\DMI.csprojResolveAssemblyReference.cache
+G:\DMI\obj\Release\DMI.DisatanceBar.resources
+G:\DMI\obj\Release\DMI.Form1.resources
+G:\DMI\obj\Release\DMI.Properties.Resources.resources
+G:\DMI\obj\Release\DMI.TargetDistance_1.resources
+G:\DMI\obj\Release\DMI.UIControl.Gauge.resources
+G:\DMI\obj\Release\DMI.UIControl.RunState.resources
+G:\DMI\obj\Release\DMI.UIControl.C3.resources
+G:\DMI\obj\Release\DMI.UIControl.C5.resources
+G:\DMI\obj\Release\DMI.UIControl.DepartSign.resources
+G:\DMI\obj\Release\DMI.UIControl.DoorState.resources
+G:\DMI\obj\Release\DMI.UIControl.F.resources
+G:\DMI\obj\Release\DMI.UIControl.M10.resources
+G:\DMI\obj\Release\DMI.UIControl.M3.resources
+G:\DMI\obj\Release\DMI.UIControl.M4.resources
+G:\DMI\obj\Release\DMI.UIControl.M5.resources
+G:\DMI\obj\Release\DMI.UIControl.M6.resources
+G:\DMI\obj\Release\DMI.UIControl.M9.resources
+G:\DMI\obj\Release\DMI.UIControl.N.resources
+G:\DMI\obj\Release\DMI.csproj.GenerateResource.Cache
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.exe
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.pdb
+C:\Users\jiang\Desktop\DMI\bin\Release\DMI.exe
+C:\Users\jiang\Desktop\DMI\bin\Release\DMI.pdb
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.csprojResolveAssemblyReference.cache
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.TargetDistance_2.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.DisatanceBar.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.Form1.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.Properties.Resources.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.TargetDistance_1.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.Gauge.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.RunState.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.C3.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.C5.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.DepartSign.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.DoorState.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.F.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.M10.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.M3.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.M4.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.M5.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.M6.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.M9.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.UIControl.N.resources
+C:\Users\jiang\Desktop\DMI\obj\Release\DMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.Form2.resources
+C:\Users\wang\Desktop\DMI - 副本\obj\Release\DMI.DisatanceBar.resources

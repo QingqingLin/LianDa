@@ -1,0 +1,352 @@
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\bin\Debug\MMI.exe
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\bin\Debug\MMI.pdb
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.exe
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.pdb
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\BweiWeiQi\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.exe
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.pdb
+C:\Users\tang\Desktop\MMI\MMI\bin\Debug\MMI.exe
+C:\Users\tang\Desktop\MMI\MMI\bin\Debug\MMI.pdb
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\tang\Desktop\MMI\MMI\obj\x86\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.exe
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.pdb
+C:\Users\tang\Desktop\c#\MMI\MMI\bin\Debug\MMI.exe
+C:\Users\tang\Desktop\c#\MMI\MMI\bin\Debug\MMI.pdb
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\tang\Desktop\c#\MMI\MMI\obj\x86\Debug\MMI.csproj.GenerateResource.Cache
+F:\MMI\MMI\obj\x86\Debug\MMI.exe
+F:\MMI\MMI\obj\x86\Debug\MMI.pdb
+F:\MMI\MMI\bin\Debug\MMI.exe
+F:\MMI\MMI\bin\Debug\MMI.pdb
+F:\MMI\MMI\obj\x86\Debug\MMI.csprojResolveAssemblyReference.cache
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.Form1.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.Properties.Resources.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.C1.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.C3.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.C5.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.F.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.M10.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.M3.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.M4.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.M5.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.M6.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.M9.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.UIControl.N.resources
+F:\MMI\MMI\obj\x86\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.exe
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.pdb
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\bin\Debug\MMI.exe
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\bin\Debug\MMI.pdb
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BweiWeiQi\Desktop\MMIyuanlai\MMI\obj\x86\Debug\MMI.IPandPort.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.exe
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.pdb
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\bin\Debug\MMI.exe
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\bin\Debug\MMI.pdb
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.IPandPort.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BweiWeiQi\Desktop\MMI 0928\MMI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.exe
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.pdb
+D:\xw\733\MMI\MMI 0928\MMI\bin\Debug\MMI.exe
+D:\xw\733\MMI\MMI 0928\MMI\bin\Debug\MMI.pdb
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.IPandPort.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.Form1.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.Properties.Resources.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.C1.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.C3.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.C5.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.F.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M10.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M3.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M4.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M5.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M6.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.M9.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\MMI.UIControl.N.resources
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\xw\733\MMI\MMI 0928\MMI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.exe
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.pdb
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\bin\Debug\MMI.exe
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\bin\Debug\MMI.pdb
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.IPandPort.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\BweiWeiQi\Desktop\MMI 0930\MMI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wang\Desktop\MMI 0930可用\MMI\obj\x86\Debug\MMI.exe
+C:\Users\wang\Desktop\MMI 0930可用\MMI\obj\x86\Debug\MMI.pdb
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.exe
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.pdb
+C:\Users\wang\Desktop\MMI\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\MMI\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.IPandPort.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\MMI\obj\x86\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.exe
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.pdb
+C:\Users\PengYaFeng\Desktop\DMI\DMI\bin\Debug\MMI.exe
+C:\Users\PengYaFeng\Desktop\DMI\DMI\bin\Debug\MMI.pdb
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.IPandPort.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\PengYaFeng\Desktop\DMI\DMI\obj\x86\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.exe
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.pdb
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\bin\Debug\MMI.exe
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\bin\Debug\MMI.pdb
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170304DMI\obj\x86\Debug\MMI.UIControl.DoorState.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.exe
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.pdb
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\bin\Debug\MMI.exe
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\bin\Debug\MMI.pdb
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.DoorState.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170306DMI\obj\x86\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI\obj\x86\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI的冯绍峰\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI的冯绍峰\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI的冯绍峰\obj\x86\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.exe
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.pdb
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\bin\Debug\MMI.exe
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\bin\Debug\MMI.pdb
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.Form1.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.Properties.Resources.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.A2_TargetDistance.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.C1.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.C3.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.C5.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.DoorState.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.F.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.M10.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.M3.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.M4.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.M5.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.M6.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.M9.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.UIControl.N.resources
+C:\Users\PengYaFeng\Desktop\DMI\20170315DMI\DMI\obj\x86\Debug\MMI.csproj.GenerateResource.Cache

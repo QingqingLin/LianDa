@@ -1,0 +1,6 @@
+<TrainConfig>
+    <Atp ip="127.0.0.1" port="7500" />
+    <Atp ip="127.0.0.1" port="7501" />
+    <Atp ip="127.0.0.1" port="7502" />
+    <Atp ip="127.0.0.1" port="7503" />
+</TrainConfig>

@@ -1,0 +1,196 @@
+C:\Users\wang\Desktop\DMI\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-13-30 - 副本\obj\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50\obj\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\obj\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-15-50 - 副本\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI 2017-3-20-22-40 - 副本\obj\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI 2017-3-21\obj\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI 2017-3-21\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-21\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-22\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-22\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI 2017-3-22\obj\Debug\MMI.csproj.GenerateResource.Cache
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-30\bin\Debug\MMI.exe
+C:\Users\wang\Desktop\DMI 2017-3-30\bin\Debug\MMI.pdb
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.Form1.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.Properties.Resources.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.A1_CurState.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.A2_TargetDistance.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.B_AGauge.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.C1.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.C3.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.C5.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.DepartSign.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.DoorState.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.F.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.M10.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.M3.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.M4.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.M5.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.M6.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.M9.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.UIControl.N.resources
+C:\Users\wang\Desktop\DMI 2017-3-30\obj\Debug\MMI.csproj.GenerateResource.Cache
